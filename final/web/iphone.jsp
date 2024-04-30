@@ -80,7 +80,7 @@
             <div class="container">
                <div class="row">
                   <div class="col-sm-12">
-                     <div class="logo"><a href="index.html"><img src="">Elec Zone</a></div>
+                     <div class="logo"><img src="images/footer-logo.png"></div>
                   </div>
                </div>
             </div>
@@ -94,10 +94,10 @@
                      <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
                      <a href="product.jsp">Home</a>
                      <a href="laptop.jsp">Laptops</a>
-                     <a href="macseries.jsp">Mac series</a>
+                     <a href="macseries.jsp">MacBook</a>
                      <a href="iphone.jsp">I phones</a>
-                     <a href="camaras.jsp">Camaras</a>
-                     <a href="headphones.jsp">Head phones</a>
+                     <a href="cameras.jsp">Camaras</a>
+                     <a href="headphones.jsp">Headsets</a>
                   </div>
                   <span class="toggle_icon" onclick="openNav()"><img src="images/toggle-icon.png"></span>
                   <div class="dropdown">
@@ -127,11 +127,11 @@
                      </div>
                      <div class="login_menu">
                         <ul>
-                           <li><a href="#">
+                           <li><a href="signin.jsp">
                               <i class="fa fa-shopping-cart" aria-hidden="true"></i>
                               <span class="padding_10">Login</span></a>
                            </li>
-                           <li><a href="#">
+                           <li><a href="signup.jsp">
                               <i class="fa fa-user" aria-hidden="true"></i>
                               <span class="padding_10">Sign up</span></a>
                            </li>
@@ -191,7 +191,7 @@
             <div class="carousel-inner">
                <div class="carousel-item active">
                   <div class="container">
-                 <h1 class="product_taital">I PHONE SERIES</h1>
+                 <h1 class="product_taital">Iphones</h1>
                  <div class="product_section_2"> 
                       <div class="row">
                              <div class="col-lg-4 col-sm-4">

@@ -98,21 +98,22 @@
                 <div class="card-body">
                   <form role="form">
                     <div class="input-group input-group-outline mb-3">
-                      <label class="form-label">Name</label>
-                      <input type="text" class="form-control">
+                        <label class="form-label"></label>
+                        <input type="text" class="form-control" placeholder="Name">
                     </div>
                     <div class="input-group input-group-outline mb-3">
-                      <label class="form-label">Email</label>
-                      <input type="email" class="form-control">
-                    </div>
-                      <div class="input-group input-group-outline mb-3">
-                      <label class="form-label">Mobile Number</label>
-                      <input type="text" class="form-control">
+                        <label class="form-label"></label>
+                        <input type="email" class="form-control" placeholder="Email">
                     </div>
                     <div class="input-group input-group-outline mb-3">
-                      <label class="form-label">Password</label>
-                      <input type="password" class="form-control">
+                        <label class="form-label"></label>
+                        <input type="text" class="form-control" placeholder="Mobile Number">
                     </div>
+                    <div class="input-group input-group-outline mb-3">
+                        <label class="form-label"></label>
+                        <input type="password" class="form-control" placeholder="Password">
+                    </div>
+
                     <div class="form-check form-check-info text-start ps-0">
                       <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" checked>
                       <label class="form-check-label" for="flexCheckDefault">

@@ -63,11 +63,11 @@
                   <div class="col-sm-12">
                      <div class="custom_menu">
                         <ul>
-                           <li><a href="produt.jsp">Home</a></li>
-                           <li><a href="#">Product</a></li>
-                           <li><a href="servise.jsp">Services</a></li>
+                           <li><a href="product.jsp">Home</a></li>
+                           <li><a href="product.jsp">Product</a></li>
+                           <li><a href="service.jsp">Services</a></li>
                            <li><a href="aboutus.jsp">About Us</a></li>
-                           <li><a href="contact us.jsp">Contact Us</a></li>
+                           <li><a href="contactus.jsp">Contact Us</a></li>
                         </ul>
                      </div>
                   </div>
@@ -80,7 +80,7 @@
             <div class="container">
                <div class="row">
                   <div class="col-sm-12">
-                     <div class="logo"><a href="index.html"><img src="">Elec Zone</a></div>
+                     <div class="logo"><img src="images/footer-logo.png"></div>
                   </div>
                </div>
             </div>
@@ -94,10 +94,10 @@
                      <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
                      <a href="product.jsp">Home</a>
                      <a href="laptop.jsp">Laptops</a>
-                     <a href="macseries.jsp">Mac series</a>
+                     <a href="macseries.jsp">MacBooks</a>
                      <a href="iphone.jsp">I phones</a>
-                     <a href="camaras.jsp">Camaras</a>
-                     <a href="headphones.jsp">Head phones</a>
+                     <a href="cameras.jsp">Cameras</a>
+                     <a href="headphones.jsp">Headsets</a>
                   </div>
                   <span class="toggle_icon" onclick="openNav()"><img src="images/toggle-icon.png"></span>
                   <div class="dropdown">
@@ -191,7 +191,7 @@
             <div class="carousel-inner">
                <div class="carousel-item active">
                   <div class="container">
-                     <h1 class="product_taital">LAPTOPS</h1>
+                     <h1 class="product_taital">Laptops</h1>
                      <div class="product_section_2">
                         <div class="row">
                            <div class="col-lg-4 col-sm-4">

@@ -80,7 +80,7 @@
             <div class="container">
                <div class="row">
                   <div class="col-sm-12">
-                     <div class="logo"><a href="index.html"><img src="">Elec Zone</a></div>
+                     <div class="logo"><img src="images/footer-logo.png"></div>
                   </div>
                </div>
             </div>
@@ -191,7 +191,7 @@
             <div class="carousel-inner">
                <div class="carousel-item active">
                   <div class="container">
-                     <h1 class="product_taital">HEAD PHONES</h1>
+                     <h1 class="product_taital">Headsets</h1>
                      <div class="product_section_2">
                         <div class="row">
                            <div class="col-lg-4 col-sm-4">

@@ -1,12 +1,10 @@
-
-<%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
   <style>
     body {
-      background-image: url('assets\img\abc.jpg');
+      background-image: url('assets\img\bg.png');
     }
   </style>
   <meta charset="utf-8" />
@@ -16,14 +14,19 @@
   <title>
     Elec-Zone
   </title>
-  
+  <!--     Fonts and icons     -->
   <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900|Roboto+Slab:400,700" />
+  <!-- Nucleo Icons -->
   <link href="assets/css/nucleo-icons.css" rel="stylesheet" />
   <link href="assets/css/nucleo-svg.css" rel="stylesheet" />
+  <!-- Font Awesome Icons -->
   <script src="https://kit.fontawesome.com/42d5adcbca.js" crossorigin="anonymous"></script>
+  <!-- Material Icons -->
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Round" rel="stylesheet">
+  <!-- CSS Files -->
   <link id="pagestyle" href="assets/css/material-dashboard.css?v=3.1.0" rel="stylesheet" />
-  
+  <!-- Nepcha Analytics (nepcha.com) -->
+  <!-- Nepcha is a easy-to-use web analytics. No cookies and fully compliant with GDPR, CCPA and PECR. -->
   <script defer data-site="YOUR_DOMAIN_HERE" src="https://api.nepcha.com/js/nepcha-analytics.js"></script>
 </head>
 
@@ -59,7 +62,7 @@
                   </a>
                 </li>
                 <li class="nav-item">
-                  <a class="nav-link me-2" href="signup.html">
+                  <a class="nav-link me-2" href="signup.jsp">
                     <i class="fas fa-user-circle opacity-6 text-dark me-1"></i>
                     Sign Up
                   </a>
@@ -82,6 +85,7 @@
             </div>
           </div>
         </nav>
+        <!-- End Navbar -->
       </div>
     </div>
   </div>
@@ -115,15 +119,22 @@
                 </div>
               </div>
               <div class="card-body">
-                <form role="form" action="CustLoginServlet" method="post" class="text-start">
+                <form role="form" class="text-start">
                   <div class="input-group input-group-outline my-3">
+                        <label class="form-label"></label>
+                        <input type="email" class="form-control" placeholder="Email">
+                    </div>
+                    <div class="input-group input-group-outline mb-3">
+                        <label class="form-label"></label>
+                        <input type="password" class="form-control" placeholder="Password">
+                    </div>
 
                   <div class="form-check form-switch d-flex align-items-center mb-3">
                     <input class="form-check-input" type="checkbox" id="rememberMe" checked>
                     <label class="form-check-label mb-0 ms-3" for="rememberMe">Remember me</label>
                   </div>
                   <div class="text-center">
-                    <input type="submit" class="btn bg-gradient-primary w-100 my-4 mb-2" name="submit" value="SignIn" >
+                    <button type="button" class="btn bg-gradient-primary w-100 my-4 mb-2">Sign in</button>
                   </div>
                   <p class="mt-4 text-sm text-center">
                     Don't have an account?
@@ -140,7 +151,7 @@
           <div class="row align-items-center justify-content-lg-between">
             <div class="col-12 col-md-6 my-auto">
               <div class="copyright text-center text-sm text-muted text-lg-start">
-                Â© <script>
+                © <script>
                   document.write(new Date().getFullYear())
                 </script>,
                 Made by
@@ -169,6 +180,7 @@
       </footer>
     </div>
   </main>
+  <!--   Core JS Files   -->
   <script src="assets/js/core/popper.min.js"></script>
   <script src="assets/js/core/bootstrap.min.js"></script>
   <script src="assets/js/plugins/perfect-scrollbar.min.js"></script>
@@ -182,7 +194,9 @@
       Scrollbar.init(document.querySelector('#sidenav-scrollbar'), options);
     }
   </script>
+  <!-- Github buttons -->
   <script async defer src="https://buttons.github.io/buttons.js"></script>
+  <!-- Control Center for Material Dashboard: parallax effects, scripts for the example pages etc -->
   <script src="assets/js/material-dashboard.min.js?v=3.1.0"></script>
 </body>
 

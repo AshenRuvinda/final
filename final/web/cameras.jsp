@@ -80,7 +80,7 @@
             <div class="container">
                <div class="row">
                   <div class="col-sm-12">
-                     <div class="logo"><a href="index.html"><img src="">Elec Zone</a></div>
+                     <div class="logo"><img src="images/footer-logo.png"></div>
                   </div>
                </div>
             </div>
@@ -96,8 +96,8 @@
                      <a href="laptop.jsp">Laptops</a>
                      <a href="macseries.jsp">Mac series</a>
                      <a href="iphone.jsp">I phones</a>
-                     <a href="camaras.jsp">Camaras</a>
-                     <a href="headphones.jsp">Head phones</a>
+                     <a href="camaras.jsp">Cameras</a>
+                     <a href="headphones.jsp">Headsets</a>
                   </div>
                   <span class="toggle_icon" onclick="openNav()"><img src="images/toggle-icon.png"></span>
                   <div class="dropdown">
@@ -191,7 +191,7 @@
             <div class="carousel-inner">
                <div class="carousel-item active">
                   <div class="container">
-                     <h1 class="product_taital">Camaras</h1>
+                     <h1 class="product_taital">Cameras</h1>
                      <div class="product_section_2">
                         <div class="row">
                              <div class="col-lg-4 col-sm-4">
@@ -308,7 +308,7 @@
         <!-- footer section start -->
       <div class="footer_section layout_padding">
          <div class="container">
-            <div class="footer_logo"><a href="index.html"><img src="images/footer-logo.png"></a></div>
+            <div class="footer_logo"><a href="product.jsp"><img src="images/footer-logo.png"></a></div>
             <div class="input_bt">
                <input type="text" class="mail_bt" placeholder="Your Email" name="Your Email">
                <span class="subscribe_bt" id="basic-addon2"><a href="#">Subscribe</a></span>

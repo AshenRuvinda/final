@@ -63,11 +63,11 @@
                   <div class="col-sm-12">
                      <div class="custom_menu">
                         <ul>
-                           <li><a href="produt.jsp">Home</a></li>
-                           <li><a href="#">Product</a></li>
+                           <li><a href="product.jsp">Home</a></li>
+                           <li><a href="product.jsp">Product</a></li>
                            <li><a href="servise.jsp">Services</a></li>
                            <li><a href="aboutus.jsp">About Us</a></li>
-                           <li><a href="contact us.jsp">Contact Us</a></li>
+                           <li><a href="contactus.jsp">Contact Us</a></li>
                         </ul>
                      </div>
                   </div>
@@ -80,7 +80,7 @@
             <div class="container">
                <div class="row">
                   <div class="col-sm-12">
-                     <div class="logo"><a href="index.html"><img src="">Elec Zone</a></div>
+                     <div class="logo"><img src="images/footer-logo.png"></div>
                   </div>
                </div>
             </div>
@@ -94,10 +94,10 @@
                      <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
                      <a href="product.jsp">Home</a>
                      <a href="laptop.jsp">Laptops</a>
-                     <a href="macseries.jsp">Mac series</a>
+                     <a href="macseries.jsp">MacBooks</a>
                      <a href="iphone.jsp">I phones</a>
-                     <a href="camaras.jsp">Camaras</a>
-                     <a href="headphones.jsp">Head phones</a>
+                     <a href="camaras.jsp">Cameras</a>
+                     <a href="headphones.jsp">Headsets</a>
                   </div>
                   <span class="toggle_icon" onclick="openNav()"><img src="images/toggle-icon.png"></span>
                   <div class="dropdown">
@@ -127,11 +127,11 @@
                      </div>
                      <div class="login_menu">
                         <ul>
-                           <li><a href="#">
+                           <li><a href="signin.jsp">
                               <i class="fa fa-shopping-cart" aria-hidden="true"></i>
                               <span class="padding_10">Login</span></a>
                            </li>
-                           <li><a href="#">
+                           <li><a href="signup.jsp">
                               <i class="fa fa-user" aria-hidden="true"></i>
                               <span class="padding_10">Sign up</span></a>
                            </li>
@@ -191,7 +191,7 @@
             <div class="carousel-inner">
                <div class="carousel-item active">
                   <div class="container">
-                     <h1 class="product_taital">LAPTOPS</h1>
+                     <h1 class="product_taital">Laptops</h1>
                      <div class="product_section_2">
                         <div class="row">
                            <div class="col-lg-4 col-sm-4">
@@ -230,7 +230,7 @@
                                  </div>
                               </div>
                            </div>
-                            <h1 class="product_taital">MAC SERIES</h1>
+                            <h1 class="product_taital">MacBooks</h1>
                              <div class="col-lg-4 col-sm-4">
                               <div class="lap1_main">
                                  <h4 class="laptop_text">MACBOOK AIR 15" M2</h4>
@@ -267,7 +267,7 @@
                                  </div>
                               </div>
                            </div>
-                            <h1 class="product_taital">I PHONE SERIES</h1>
+                            <h1 class="product_taital">Iphones</h1>
                              <div class="col-lg-4 col-sm-4">
                               <div class="lap1_main">
                                  <h4 class="laptop_text">I 12 PRO MAX</h4>
@@ -297,14 +297,14 @@
                                  <h4 class="laptop_text">I 15 </h4>
                                  <p class="price_text">Price  <span style="color: #262626;">LKR 474,900</span></p>
                                  <div class="laptop_img"><img src="images/i15.jpg"></div>
-                                 <p>I15 PROMAX Unlocked android Phone 2023 Android 13 cell phone with Dynamic Island Titanium Design 8GB+512GB Mobile Phones 6.7“ HD Screen 108MP+48MP Camera 6800 mAh Dual SIM Smart phone,5G DUAL SIM CELL PHONE - I15 PROMAX supports 5G/4G/3G/2G cellular, much wider frequency bands,Get incredible framing flexibility with lenses</p>
+                                 <p>Iphone 15 PRO MAX Unlocked android Phone 2023 Android 13 cell phone with Dynamic Island Titanium Design 8GB+512GB Mobile Phones 6.7“ HD Screen 108MP+48MP Camera 6800 mAh Dual SIM Smart phone,5G DUAL SIM CELL PHONE - I15 PROMAX supports 5G/4G/3G/2G cellular, much wider frequency bands,Get incredible framing flexibility with lenses</p>
                                  <div class="btn_main">
                                     <button class="buy_bt"><a href="cart.jsp">Add To Cart</a></button>
                                     <div class="seemore_bt"><a href="iphone.jsp">See more</a></div>
                                  </div>
                               </div>
                            </div>
-                             <h1 class="product_taital">CAMARAS</h1>
+                             <h1 class="product_taital">Cameras</h1>
                              <div class="col-lg-4 col-sm-4">
                               <div class="lap1_main">
                                  <h4 class="laptop_text">CANON EOS R5</h4>
@@ -341,7 +341,7 @@
                                  </div>
                               </div>
                            </div>
-                              <h1 class="product_taital">HEAD PHONES</h1>
+                              <h1 class="product_taital">Headsets</h1>
                               <div class="col-lg-4 col-sm-4">
                               <div class="lap1_main">
                                  <h4 class="laptop_text">AKG ARCHIVES</h4>
@@ -368,7 +368,7 @@
                            </div>
                              <div class="col-lg-4 col-sm-4">
                               <div class="lap1_main">
-                                 <h4 class="laptop_text">MDR-ZX110NC NOISE CANCELLING ON-EAR HEADPHONES</h4>
+                                 <h4 class="laptop_text">MDR-ZX110NC NOISE CANCELING ON-EAR HEADPHONES</h4>
                                  <p class="price_text">Price  <span style="color: #262626;">LKR 10,500</span></p>
                                  <div class="laptop_img"><img src="images/sony wirless headphone.jpg"></div>
                                  <P>Integrated noise canceling technology,80 hours of battery life,Lightweight for ultimate music mobility,Perfect for a life on the go</P>
@@ -382,7 +382,7 @@
                              <!-- footer section start -->
       <div class="footer_section layout_padding">
          <div class="container">
-            <div class="footer_logo"><a href="index.html"><img src="images/footer-logo.png"></a></div>
+            <div class="footer_logo"><a href="product.jsp"><img src="images/footer-logo.png"></a></div>
             <div class="input_bt">
                <input type="text" class="mail_bt" placeholder="Your Email" name="Your Email">
                <span class="subscribe_bt" id="basic-addon2"><a href="#">Subscribe</a></span>
