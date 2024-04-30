@@ -1,0 +1,103 @@
+/* styles.css */
+body {
+    background-image: url("../images/ServicesCover.webp"); /* Replace 'your-background-image-url.jpg' with the actual URL or path to your image */
+    background-size: auto;
+    background-repeat: no-repeat; /* Optional: prevents the background image from repeating */
+    background-color: rgba(115, 103, 103, 0.5);
+    background-position-x: 50%;
+    background-position-y: 25%;
+    text-align: center;
+    padding: 20px;
+    border-radius: 20px;
+    font-family: Georgia , serif;
+    font-size: large;
+    background-color: #f5f5f5;
+    text-align: center;
+  }
+  main {
+    color: #000000;
+    background-color: rgba(212, 207, 207, 0.549);
+    margin-top: 5px;
+    margin-left: 200px;
+    margin-right: 200px;
+    padding: 10px;
+    border-radius: 20px;
+    line-height: 2em;
+  }
+
+  .main1 {
+    color: #000000;
+    background-color: rgba(212, 207, 207, 0.549);
+    margin-top: 50px;
+    margin-left: 20px;
+    margin-right: 75%;
+    padding: 10px;
+    border-radius: 20px;
+    line-height: 2em;
+  }
+
+  .main3 {
+    color: #000000;
+    background-color: rgba(212, 207, 207, 0.549);
+    margin-top:-300px;
+    margin-left: 75%;
+    margin-right: 20px;
+    padding: 10px;
+    border-radius: 20px;
+    line-height: 2em;
+  }
+
+  .main2 {
+    color: #000000;
+    background-color: rgba(212, 207, 207, 0.549);
+    margin-top: 50px;
+    margin-left: 20px;
+    margin-right: 75%;
+    padding: 10px;
+    border-radius: 20px;
+    line-height: 2em;
+  }
+
+  .main4 {
+    color: #000000;
+    background-color: rgba(212, 207, 207, 0.549);
+    margin-top: 50px;
+    margin-left: 75%;
+    margin-right: 20px;
+    padding: 10px;
+    border-radius: 20px;
+    line-height: 2em;
+  }
+
+  .main5 {
+    color: #000000;
+    background-color: rgba(212, 207, 207, 0.549);
+    margin-top:-400px;
+    margin-left: 20px;
+    margin-right: 75%;
+    padding: 10px;
+    border-radius: 20px;
+    line-height: 2em; 
+  }
+
+  .main6 {
+    color: #000000;
+    background-color: rgba(212, 207, 207, 0.549);
+    margin-top:-200px;
+    margin-left: 30%;
+    margin-right: 575px;
+    padding: 10px;
+    border-radius: 20px;
+    line-height: 2em; 
+  }
+
+  .main7 {
+    color: #000000;
+    background-color: rgba(212, 207, 207, 0.549);
+    margin-top: 50px;
+    margin-left: 45%;
+    margin-right: 250px;
+    padding: 10px;
+    border-radius: 20px;
+    line-height: 2em;
+  }
